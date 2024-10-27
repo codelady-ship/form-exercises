@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    text-decoration: none;
+    list-style-type: decimal;
+    outline: none;
+}
+.title{ 
+    margin: auto;
+    font-size: large;
+    font-weight: bolder;
+    width: 500px;
+}
+.A{ width: 470px;
+    height: 70px;
+    background-color: aqua;
+    padding: 5%;
+}
+.form{
+    padding: 3%;
+    width: 600px;
+    height: 870px;
+    display: flex;
+    align-items: center;
+    margin-left: 400px;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+.form img{
+    width: 50px;
+}
+.form input{
+    padding: 2%;
+    width: 300px;
+   
+}
+.form label{
+   width: 500px; 
+   padding: 2%;
+}
+.form a{font-weight:bolder ;
+    color: rgb(22, 22, 22);
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    padding: 3%  12%; 
+    border-radius:20px;
+    border: 1px solid rgb(3, 18, 148);
+    background-color:aquamarine;
+    
+}
+.B{ 
+    width: 450px;
+    height: 20px ;
+    display: flex;
+    margin: 2% 2% 7% 0;
+    
+}
+.form h2{
+    padding-top: 5%;
+}
